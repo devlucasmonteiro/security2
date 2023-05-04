@@ -7,9 +7,9 @@
 body {
   font-family: "Poppins", sans-serif;
   color: #fff;
-  /* background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    linear-gradient(260.89deg, #00d4ff -97.05%, #000000 35.26%, #000000 99.51%); */
-  background-color: red;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(260.89deg, #00d4ff -97.05%, #000000 35.26%, #000000 99.51%); 
+ 
 }
 
 img {
@@ -234,10 +234,6 @@ nav {
   flex-direction: column;
 }
 
-select {
-  -webkit-appearance: none;
-  -moz-appearance: none;
-}
 
 input,
 select {
